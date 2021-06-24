@@ -16,3 +16,6 @@ Before start a new issue, please makesure you've checked `Show Data ID in toolti
 4. NPC XXX (id: xxx) located at Zone XXX (id: xxx), with coordinates xxx. Coordinates should be very hard to capture, such you may paste a screenshot about your position.
 5. NPC XXX (id: xxx) summoned by 5 items XXX (id: xxx), and you must finish Quest XXX (id: xxx).
 6. ...
+
+
+Best luck to all who love World of Warcraft!
