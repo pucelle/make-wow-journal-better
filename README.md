@@ -18,4 +18,4 @@ Before start a new issue, please makesure you've checked `Show Data ID in toolti
 6. ...
 
 
-Best luck to all who love World of Warcraft!
+Best luck to all the World of Warcraft players!
